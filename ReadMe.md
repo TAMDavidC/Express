@@ -17,7 +17,7 @@ TODO
   - [x] tutorial 5
     - [x] 3rd party packages
     - [x] installing pacjkages globally (nodemon)
-    - [x] the package.json file 
+    - [x] the package.json file
     - [x] installing packages locally
     - [x] dependcies and sharing code
   - [x] tutorial 6
@@ -25,9 +25,9 @@ TODO
     - [x] Creating an express app
     - [x] routing & html pages
     - [x] redirects & 404 pages
-- [ ] mod 5
+- [x] mod 5
   - [x] view engines
   - [x]  ejs view engine
   - [x]  passing data into views
-  - [ ]  partials
-  - [ ]  adding css
+  - [x]  partials
+  - [x]  adding css
