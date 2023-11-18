@@ -28,6 +28,6 @@ TODO
 - [ ] mod 5
   - [x] view engines
   - [x]  ejs view engine
-  - [ ]  passing data into views
+  - [x]  passing data into views
   - [ ]  partials
   - [ ]  adding css
