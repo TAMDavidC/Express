@@ -26,8 +26,14 @@ TODO
     - [x] routing & html pages
     - [x] redirects & 404 pages
 - [x] mod 5
-  - [x] view engines
-  - [x]  ejs view engine
-  - [x]  passing data into views
-  - [x]  partials
-  - [x]  adding css
+  - [x] tutorial 7
+    - [x] view engines
+    - [x] ejs view engine
+    - [x] passing data into views
+    - [x] partials
+    - [x] adding css
+  - [ ] tutorial 8
+    - [x] what is middleware
+    - [x] using next()
+    - [x] 3rd party middleware
+    - [ ] static files
