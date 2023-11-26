@@ -37,11 +37,15 @@ TODO
     - [x] using next()
     - [x] 3rd party middleware
     - [x] static files
-- [ ] mod 6
+- [x] mod 6
   - [x] tutorial 9
     - [x] intro
     - [x] setup
     - [x] mongoose
     - [x] getting & saving data
     - [x] outputting documents
-  - [ ] tutorial 10
+  - [x] tutorial 10
+    - [x] request types
+    - [x] post requests
+    - [x] route parameters
+    - [x] delete requests
